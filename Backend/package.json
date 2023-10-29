@@ -1,0 +1,31 @@
+{
+  "name": "yupp",
+  "version": "1.0.0",
+  "description": "This is a social media app, using this app user can share those ideas with others. In this app user make their personal profile and connect with others like a facebook. User can chat with each others and also upload posts. In this app user can like, commnt to other posts and so more. If i talk about User Interface then This app have quality in it with attractive animations and lottie files.  ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Yupp",
+    "social",
+    "media",
+    "app",
+    "chat",
+    "app",
+    "facebook",
+    "whatsapp",
+    "meta"
+  ],
+  "author": "Malek Arsil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.0",
+    "mongoose": "^7.5.2"
+  }
+}
